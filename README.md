@@ -1,39 +1,53 @@
-# 👋 Hey there, I'm Rahul Singh Chouhan!
+# 👋 Hey there, I'm Priyadarshi Gupta!
 
-🎓 **BCA Student** | 💻 **Aspiring Data Engineer** | 🚀 **Passionate Learner**
+🎓 **B.Tech CSE Student** | 💻 **Aspiring Data Engineer** | 🚀 **Cloud & Big Data Enthusiast**
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BCA 2nd Year Student at **S.S. Jain Subodh P.G. College**
-- 🌱 Exploring **Data Engineering & Big Data Technologies**
-- 🛠 Currently working with **SQL, Python, PySpark, Pandas, NumPy**
-- 🔄 Building **end-to-end data pipeline projects**
-- 📫 Reach me at: **rahulmailbox2204@gmail.com**
+- 🎓 Pursuing **Bachelor of Technology (B.Tech)** in **Computer Science & Engineering**
+- 🏫 **Gaya College of Engineering, Gaya**
+- 🌱 Passionate about **Data Engineering, Big Data & Cloud Technologies**
+- 🔄 Building **end-to-end ETL projects** on **AWS & GCP**
+- 💡 Love turning raw data into reliable, scalable data systems
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
-- Python
-- SQL
-- C++
-- Java
+- **Python**
+- **SQL**
 
-### 🏗 Data Engineering & ETL
-- ETL Pipelines  
-- Data Warehouse Concepts  
-- Medallion Architecture  
-- PySpark  
+### 🏗️ Data Engineering & Big Data
+- **Apache Airflow**
+- **Apache Spark (PySpark)**
+- **Apache Kafka**
+- **ETL Pipelines**
+- **Data Engineering Concepts**
+
+### 📊 Data Analysis Libraries
+- **Pandas**
+- **NumPy**
+
+### ☁️ Cloud Platforms
+- **Amazon Web Services (AWS)**
+- **Google Cloud Platform (GCP)**
 
 ---
 
-## 📈 Currently Learning
-- Apache Spark
-- Data Modeling
-- Cloud Basics (AWS/GCP)
+## 🚀 What I’m Currently Doing
+- 🔧 Building **cloud-based ETL pipelines**
+- 📊 Working on **real-world data engineering projects**
+- 📚 Learning scalable data architectures & workflow orchestration
 
 ---
 
-⭐ *Always learning, always building.*
+## 📈 Goals
+- Become a **skilled Data Engineer**
+- Work with **large-scale distributed data systems**
+- Contribute to **open-source data projects**
+
+---
+
+⭐ *Always learning, always building, always improving.*
